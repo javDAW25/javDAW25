@@ -32,7 +32,7 @@ Soy un desarrollador web en formación con pasión por dar vida a las ideas en e
 
 - **[Mi primer blog](https://github.com/javi/mi-primer-blog)**: Un proyecto simple de blog usando JavaScript y almacenamiento en MySQL.
 - **[Tienda online](https://github.com/javi/tienda-online)**: Proyecto en el que he trabajado en la implementación de un backend usando Java.
-<br>
+<br><br>
 ## 💬 ¿Tienes alguna pregunta o duda? ¡Adelante, pregunta sin miedo!
 
 
