@@ -3,9 +3,6 @@
 </p>
 
 
-
-# Hello world! Soy Javi 👋
-
 <div class="github-introduction">
 
 Soy un desarrollador web en formación con pasión por dar vida a las ideas en el código. Ahora mismo estoy cursando DAW (Desarrollo de aplicaciones WEB) y en el futuro quiero centrarme en el backend.
