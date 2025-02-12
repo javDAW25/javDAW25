@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/558cebbb-5c43-45dd-ab56-681165dc0522" alt="github-header-image">
+</p>
+
 
 
 # Hello world! Soy Javi 👋
